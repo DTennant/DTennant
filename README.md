@@ -1,4 +1,4 @@
-### Hi there 👋
+Currently intern at Megvii Research Nanjing, undergrad at Tongji University, Reach me at zhaobc1999@gmail.com
 
 <!--
 **DTennant/DTennant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
