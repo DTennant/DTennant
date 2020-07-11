@@ -2,7 +2,7 @@ Currently intern at Megvii Research Nanjing, Undergrad at Tongji University
 
 Working on Deep Learning, always looking for collaboration on related topics.
 
-Reach me at zhaobc1999@gmail.com
+Reach me at zhaobc.gm@gmail.com
 
 <!--
 **DTennant/DTennant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
