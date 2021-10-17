@@ -1,6 +1,6 @@
-Currently intern at Megvii Research Nanjing, Undergrad at Tongji University
+Undergrad at Tongji University
 
-Working on Deep Learning, always looking for collaboration on related topics.
+Looking for PhD position starting Fall-2022.
 
 Reach me at zhaobc.gm@gmail.com
 
