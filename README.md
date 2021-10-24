@@ -1,6 +1,6 @@
 Undergrad at Tongji University
 
-Looking for PhD position starting Fall-2022.
+Looking for a PhD position starting Fall-2022.
 
 Reach me at zhaobc.gm@gmail.com
 
