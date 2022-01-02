@@ -6,6 +6,9 @@ Reach me at zhaobc.gm@gmail.com
 
 [![DTennant's github stats](https://github-readme-stats.vercel.app/api?username=DTennant&show_icons=true)](https://github.com/DTennant/)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTennant&layout=compact)](https://github.com/Christmas/github-readme-stats)
+
 <!--
 **DTennant/DTennant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
