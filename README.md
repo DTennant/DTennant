@@ -1,6 +1,6 @@
 Undergrad at Tongji University
 
-Looking for a PhD position starting Fall-2022.
+Will be joining the University of Edinburgh as a PhD student starting Fall-2022.
 
 Reach me at zhaobc.gm@gmail.com
 
