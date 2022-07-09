@@ -2,7 +2,7 @@ Undergrad at Tongji University
 
 Will be joining the University of Edinburgh as a PhD student starting Fall-2022.
 
-Reach me at zhaobc.gm@gmail.com
+Reach me at zhaobc.gm@gmail.com if you are interested in discussing research ideas or project with me
 
 [![DTennant's github stats](https://github-readme-stats.vercel.app/api?username=DTennant&show_icons=true)](https://github.com/DTennant/)
 
