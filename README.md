@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=DTennant)
+
+
 Undergrad at Tongji University
 
 Will be joining the University of Edinburgh as a PhD student starting Fall-2022.
