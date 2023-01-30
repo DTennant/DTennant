@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=DTennant)
 
-Will be joining the University of Edinburgh as a PhD student starting Fall-2022.
+PhD student at the University of Edinburgh
 
 Reach me at zhaobc.gm@gmail.com if you are interested in discussing research ideas or projects with me
 
